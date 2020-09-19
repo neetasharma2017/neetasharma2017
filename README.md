@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there 👋 my name is Neeta Sharma</h1>
 <h3 align="center">I'm a Software Engineer 󠀠󠀠👨🏽‍💻 󠀠󠀠󠀠<br>
-3+ years of professional experience in C/C++, Java, Python.
+3+ years of professional experience in C/C++, Java.
   <br>
   <h4 align="center">Good Understanding on problem solving using data structures and algorithm.</>
   <br>
