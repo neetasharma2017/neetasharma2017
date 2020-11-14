@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neetasharma2017&hide=html&layout=compact&langs_count=10" alt="vikassharma96" /> </p>
 
 
-- 📫 󠀠󠀠 How to reach me **vks.sharmavikas96@gmail.com**
+- 📫 󠀠󠀠 How to reach me **neetasharma2392@gmail.com**
 
 <!--
 <p align="center">
